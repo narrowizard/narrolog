@@ -1,0 +1,15 @@
+{
+  "name": "narrolog",
+  "version": "1.0.0",
+  "description": "a simple log tool.",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "narro",
+  "license": "MIT"
+}
