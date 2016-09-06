@@ -1,7 +1,7 @@
 {
   "name": "narrolog",
   "version": "1.0.0",
-  "description": "a simple log tool.",
+  "description": "a simple log tools based on nodejs.",
   "main": "index.js",
   "dependencies": {
     "colors": "^1.1.2"
@@ -10,6 +10,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narrowizard/narrolog.git"
+  },
+  "keywords": [
+    "log",
+    "nodejs"
+  ],
   "author": "narro",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/narrowizard/narrolog/issues"
+  },
+  "homepage": "https://github.com/narrowizard/narrolog#readme"
 }
