@@ -11,9 +11,9 @@ export enum LogMode {
 }
 
 export interface NarroLogConfig {
-    level: DebugLevel,
-    mode: LogMode,
-    logFile: string
+    level?: DebugLevel,
+    mode?: LogMode,
+    logFile?: string
 }
 
 export function info(...msg: string[]);
